@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$/Desktop/GitHub Repositories" vcs="Git" />
     <mapping directory="$USER_HOME$/Desktop/GitHub Repositories/Android-App-Side-Projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

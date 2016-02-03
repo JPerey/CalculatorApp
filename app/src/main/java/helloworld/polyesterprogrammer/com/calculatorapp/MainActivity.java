@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         txtvResult = (TextView) findViewById(R.id.txtvResult);
 
         /*
-        Creating methods for each button for when they are clicked
+        Creating methods for each button for when they are clicked . TESTING FOR GITHUB
          */
         btnAddition.setOnClickListener(new View.OnClickListener() {
             @Override
